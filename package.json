@@ -1,0 +1,19 @@
+{
+  "name": "broncostwo",
+  "version": "1.0.0",
+  "description": "make a crud app in 30 minutes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alex Bennett <alexandergraybennett@gmail.com> (http://thedope.agency)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexG53090/half-hour-challenge.git"
+  },
+  "bugs": {
+    "url": "https://github.com/alexG53090/half-hour-challenge/issues"
+  },
+  "homepage": "https://github.com/alexG53090/half-hour-challenge#readme"
+}
