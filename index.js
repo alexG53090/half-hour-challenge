@@ -15,7 +15,6 @@ var Broncos = function () {
   return knex('bcos');
 }
 
-
 // use modules
 app.use(express.static('./views'));
 
